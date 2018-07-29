@@ -1,4 +1,4 @@
 initialize_employees.sql	localhost:1521/xe	ibm_ucd	false
 employee_seed_data.sql	localhost:1521/xe	ibm_ucd	false
-initialize_depts.sql  localhost:1521/xe   ibm_ucd false
-dept_seed_data.sql  localhost:1521/xe   ibm_ucd false
+initialize_depts.sql	localhost:1521/xe	ibm_ucd	false
+dept_seed_data.sql	localhost:1521/xe	ibm_ucd	false
